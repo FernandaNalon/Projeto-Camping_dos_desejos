@@ -1,0 +1,46 @@
+.principal {
+    margin: 30px 10%;
+    padding: 15px;
+    height: auto;
+    background-color: rgb(206, 210, 235);
+    border: 5px dashed rgb(9, 20, 83);
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.sobre {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.p-sobre {
+    font-size: 17px;
+    line-height: 30px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.collabdefotos {
+    width: 100%;
+}
+
+.umafoto {
+    align-items: center;
+}
+
+.collabdefotos .umafoto img {
+    height: 250px;
+    width: 290px;
+    margin: 8px;
+    border-radius: 6px;
+    box-shadow: 4px 6px 8px #000;
+}
+
+.collabdefotos .umafoto img:hover {
+    height: 270px;
+    width: 310px;
+    transition: 1s;
+}

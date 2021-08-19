@@ -1,0 +1,55 @@
+.principal {
+    margin: 30px 20%;
+    padding: 15px;
+    height: 800px;
+    background-color: rgb(206, 210, 235);
+    border: 5px dashed rgb(9, 20, 83);
+}
+
+.sobre {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.p-sobre {
+    font-size: 18px;
+    line-height: 30px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+}
+
+.quemsomosimg {
+    text-align: center;
+}
+
+.quemsomosimg img {
+    width: 50%;
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 4px 6px 8px #000;
+}
+
+.endereco {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.p-endereco {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Merriweather', serif;
+}
+
+.mapa {
+    text-align: center;
+}
+
+iframe {
+    width: 400px;
+    height: 200px;
+}

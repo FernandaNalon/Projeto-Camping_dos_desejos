@@ -1,0 +1,84 @@
+.principal {
+    margin: 30px 20%;
+    padding: 15px;
+    height: 610px;
+    background-color: rgb(206, 210, 235);
+    border: 5px dashed rgb(9, 20, 83);
+}
+
+.principal h2 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.redesociais {
+    margin-top: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.redesociais a {
+    text-decoration: none;
+    padding: 0 15px;
+    color: rgb(9, 20, 83);
+}
+
+.sobre {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.p-sobre {
+    font-size: 19px;
+    line-height: 30px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: left;
+}
+
+section p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contatos_form {
+    width: 50%;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-right: 23%;
+    border: 1.5px dashed rgb(9, 20, 83);
+    padding: 25px 25px 25px 4px;
+}
+
+.contatos_form label {
+    font-family: 'Merriweather', serif;
+    margin-bottom: 10px;
+}
+
+.contatos_form input {
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 1px;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.contatos_form textarea {
+    width: 90%;
+    margin-left: 20px;
+    height: 90px;
+}
+
+.contatos_form button {
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: rgb(9, 20, 83);
+    color: white;
+}
